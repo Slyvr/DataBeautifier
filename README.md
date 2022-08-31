@@ -33,11 +33,17 @@ Check the /input/ directory for an example XML and XSL file that can be used to 
 ## Charts
 Charts can also be generated without XSL, by outputting specific XML in a specific way.  See an example under /input/
 
+#### TO_TYPE
+- PIECHART
+- BARCHART
+- LINECHART
+- AREACHART
+
 All charts must be listed in the xml within tags labelled as such
 
     <chart></chart>
 
-Within the <options></options> tag you specific what kind of chart you're wanting to generate.
+Within the options tag you specific what kind of chart you're wanting to generate.
 
 Here are the tags necessary under options and an example below
 
