@@ -33,7 +33,9 @@ Check the /input/ directory for an example XML and XSL file that can be used to 
 ## Charts
 Charts can also be generated without XSL, by outputting specific XML in a specific way.  See an example under /input/
 
-All charts must be listed in the xml with <chart></chart> tags
+All charts must be listed in the xml within tags labelled as such
+
+    <chart></chart>
 
 Within the <options></options> tag you specific what kind of chart you're wanting to generate.
 
