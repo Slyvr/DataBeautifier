@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_main>
+	<person>
+		<iden>A123</iden>
+		<firstname>Aaron</firstname>
+		<lastname>Wood</lastname>
+	</person>
+	<person>
+		<iden>A00000516</iden>
+		<firstname>Daniel</firstname>
+		<lastname>Geary</lastname>
+	</person>
+	<person>
+		<iden>A00001145</iden>
+		<firstname>Marjorie</firstname>
+		<lastname>Putman</lastname>
+	</person>
+	<person>
+		<iden>A00001518</iden>
+		<firstname>John</firstname>
+		<lastname>D'Angelo</lastname>
+	</person>
+	<chart>
+		<options>
+			<type>BAR</type>
+			<title>This is the Title</title>
+			<categoryLabel>These are the Categories</categoryLabel>
+			<valueLabel>These are the Values</valueLabel>
+			<orientation>VERTICAL</orientation>
+			<showLegend>true</showLegend>
+			<showTooltips>true</showTooltips>
+			<width>1024</width>
+			<height>480</height>
+		</options>
+		<rec>
+			<category>test</category>
+			<name>name1</name>
+			<value>10</value>
+		</rec>
+		<rec>
+			<category>test</category>
+			<name>name2</name>
+			<value>20</value>
+		</rec>
+		<rec>
+			<category>test</category>
+			<name>name3</name>
+			<value>30</value>
+		</rec>
+		<rec>
+			<category>test</category>
+			<name>name4</name>
+			<value>40</value>
+		</rec>
+		<rec>
+			<category>test</category>
+			<name>name5</name>
+			<value>50</value>
+		</rec>
+	</chart>
+</xml_main>
