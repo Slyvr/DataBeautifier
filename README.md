@@ -100,3 +100,6 @@ For the data values that the chart utilizes, you need to build the XML with mult
         <name>name1</name>
         <value>10</value>
     </rec>
+    
+Example of a chart here:
+    ![Example Chart](/SRC/input/testData_0.png)
